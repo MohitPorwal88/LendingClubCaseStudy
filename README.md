@@ -1,48 +1,24 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> To analyse the dataset containing details about past loan applicants using EDA to investigate how customer attributes and loan attributes can affect the loan default.
 
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
+Provides an idea about how exploratory data analysis can be used in solving real life business problems.
+➢
+It also develops a basic understanding of risk analytics in banking and financial services.
+➢
+How the data can be used to minimize the loss of money while lending it to customers.
+➢
+It improves our understanding of the data visualization techniques.
+➢
+Get an understanding for which variables are important, view summary statistics, and visualize the data
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+ll the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
-## Contact
-Created by [@githubusername] - feel free to contact me!
 
 
 <!-- Optional -->
