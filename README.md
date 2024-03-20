@@ -12,17 +12,4 @@ How the data can be used to minimize the loss of money while lending it to custo
 ➢
 It improves our understanding of the data visualization techniques.
 ➢
-Get an understanding for which variables are important, view summary statistics, and visualize the data
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-ll the questions - just the ones relevant to your project. -->
-
-
-
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Get an understanding for which variables are important, view summary statistics, and visualize the data.
